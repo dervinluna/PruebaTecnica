@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CreditCardTransaction>
+	<LocalSystem>
+		<Name>LocalSystemName</Name>
+		<Location>LocalSystemLocation</Location>
+	</LocalSystem>
+	<CreditCardInfo>
+		<CardNumber>1234567890123456</CardNumber>
+		<CustomerID>unique-customer-id</CustomerID>
+		<CardType>Visa</CardType>
+		<ExpirationDate>12/2025</ExpirationDate>
+	</CreditCardInfo>
+</CreditCardTransaction>
